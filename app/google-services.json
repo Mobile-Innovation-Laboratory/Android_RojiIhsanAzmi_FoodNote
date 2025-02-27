@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961337616027",
+    "project_id": "foodnote-6b89a",
+    "storage_bucket": "foodnote-6b89a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961337616027:android:493173c9e2b04cf8d3c83e",
+        "android_client_info": {
+          "package_name": "com.app.foodnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_dacCsFQQKMo7NSnk9YYDsEmOFLIPbLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
